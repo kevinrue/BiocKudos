@@ -1,12 +1,21 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-05-08"
+title: "Motivation for this blog"
+author: "Kevin Rue-Albrecht"
+date: "2023-05-12"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome!
 
-![](thumbnail.jpg)
+This initiative was inspired by an email that landed in my inbox out of the blue one evening, from a person I don't think I've ever met or even interacted with, located on a different continent, working on projects that I was not familiar with at the time.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+That kind soul had decided to send an email to me and a collaborator simply to express gratitude for some of our contributions to the Bioconductor community over the past few years, highlighting a few ways in which they had benefited of our work.
+
+The sheer warmth of the message reminded me that it is easy to underestimate how much good a few words can do, and that a small pat of the shoulder is sometimes all we need to re-energise our work with new-found motivation and sense of purpose.
+
+The next day, I found myself working on the documentation of some of my Bioconductor packages and -- undoubtedly still positively stimulated by the email of the evening before -- was reminded of the huge debt of gratitude I felt myself toward another member of the Bioconductor community whose own hard work had made it possible for some of my own work to exist at all.
+Sending them a short message to let them know how grateful I felt, I was extremely pleased to read their reply indicating that my brief message had brigthened their own day.
+
+The lingering feeling of happiness from that cascade of goodness is why I decided to create this blog, with the hope that it will encourage more of us to share the love and support that we sometimes forget the power of!
+
+So, clone the repository and submit new posts through pull requests, or fork the repository and add new posts directly on GitHub (you'll still need to submit a pull request), and join me in praising fellow Bioconductor community members!

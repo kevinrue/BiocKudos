@@ -15,13 +15,6 @@ title-block-banner: true
 
 This blog is intended as a open platform for contributions praising individuals positively contributing to the Bioconductor community.
 
-This initiative was inspired by an email that landed in my inbox out of the blue one evening.
-A kind soul had decided to send me an email to express gratitude for some of my contributions to the Bioconductor community over the past few years, highlighting a few ways in which they had benefited of my work.
-
-The sheer warmth of the message made me realise that it is easy to underestimate how much good a few words can do, and that a small pat of the shoulder is sometimes all we need to re-energise our work with new-found motivation.
-
-The next day, I found myself praising a fellow community member for one of their own contributions; I learned that my short message is all they needed to make their day.
-
-I hope this blog will encourage more of us to share the love and support that we sometimes forget we need!
+To learn more about the initial motivation behind this initiative, read the [first post](/posts/welcome/).
 
 ## Posts

@@ -2,14 +2,12 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "BiocKudos"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/kevinrue/BiocKudos
 format:
   html:
     theme: cosmo
